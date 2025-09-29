@@ -1,0 +1,28 @@
+{
+  "name": "project-camp-backend",
+  "version": "1.0.0",
+  "description": "A robust RESTful API for a collaborative project management system, featuring JWT authentication, role-based access control, hierarchical task management, and file attachments. Built with Node.js and Express.",
+  "keywords": [
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/Yashank-d/project-camp-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Yashank-d/project-camp-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashank-d/project-camp-backend.git"
+  },
+  "license": "ISC",
+  "author": "Yashank D",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
