@@ -1,9 +1,5 @@
 # Project Camp Backend
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub issues](https://img.shields.io/github/issues/your-username/project-camp-backend)
-![GitHub stars](https://img.shields.io/github/stars/your-username/project-camp-backend)
-
 A comprehensive RESTful API service designed to power a collaborative project management application. This backend enables teams to organize projects, manage tasks with subtasks, maintain project notes, and handle user authentication with a three-tier role-based access control system.
 
 ## ✨ Core Features
